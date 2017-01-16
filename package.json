@@ -1,0 +1,24 @@
+{
+  "name": "curl",
+  "version": "1.0.0",
+  "description": "node curl",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylinzhao/curl.git"
+  },
+  "keywords": [
+    "curl",
+    "http",
+    "https"
+  ],
+  "author": "kylin.zhao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylinzhao/curl/issues"
+  },
+  "homepage": "https://github.com/kylinzhao/curl#readme"
+}
